@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zckLNFBVc0sfamT6Kf6Pp1r87meoC/SDYB2lPxa1mKk=",
+  "Source": "apiTestDapp",
+  "BasePath": "_content/apiTestDapp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

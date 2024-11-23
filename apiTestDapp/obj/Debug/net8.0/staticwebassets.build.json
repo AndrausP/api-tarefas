@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Js5WhY7TKbtQUKkDp8cGZh8SqV0mGTBqjzGdcPWRiug=",
+  "Source": "apiTestDapp",
+  "BasePath": "_content/apiTestDapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
